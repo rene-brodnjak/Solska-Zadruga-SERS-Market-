@@ -1,2 +1,2 @@
-# Solska-Zadruga-SERS-Market-
+# Solska-Zadruga-SERS-Market
 Glavni repo šolske naloge.
